@@ -1,5 +1,5 @@
 /* Add CSS Styling */
-p
+.watch
     {
         background-color: rgb(255, 192, 203);
         font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -10,3 +10,14 @@ p
         {
             font-size: 24px;
         }   
+
+#zwei
+        {
+            color: rgb(0, 0, 255);
+            font-size: 36px;
+        }
+#vier
+        {
+            background-color: #90ee90;
+            font-weight: bold;
+        }
